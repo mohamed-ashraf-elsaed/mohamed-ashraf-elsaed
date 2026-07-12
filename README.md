@@ -39,7 +39,7 @@ about clean architecture, maintainable systems, and shipping real value — and 
 **open source** and mentoring the next generation of developers (former **Web Development Instructor
 at AMIT Learning**).
 
-- 🔭 **Now:** leading backend for AI-driven SaaS at Convertedin (Flyerz · ConvertedPay).
+- 🔭 **Now:** leading backend for AI-driven SaaS at Convertedin — **Flyerz**, **ConvertedPay**, and **ConvertedOrders** (which I created): turn any product link into revenue, fully AI-run.
 - 🌱 **Exploring:** AI agents, the **Model Context Protocol (MCP)**, and agent-native developer tooling.
 - 💬 **Ask me about:** Laravel, software architecture, scalable backends, Redis, REST APIs, MCP.
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/mohamedashrafelsaed/) · `m.ashraf.saed@gmail.com`
@@ -134,10 +134,7 @@ One command sets up **Claude Code** on a Laravel project: engineering rules, a q
 </tr>
 </table>
 
-<div align="center">
-  <a href="https://github.com/mohamed-ashraf-elsaed/claude-agent-sdk-laravel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-ashraf-elsaed&repo=claude-agent-sdk-laravel&theme=default&hide_border=true&border_radius=12" alt="claude-agent-sdk-laravel" height="150" /></a>
-  <a href="https://github.com/mohamed-ashraf-elsaed/loupe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamed-ashraf-elsaed&repo=loupe&theme=default&hide_border=true&border_radius=12" alt="loupe" height="150" /></a>
-</div>
+> More on GitHub: [growva-app](https://github.com/mohamed-ashraf-elsaed?tab=repositories) and other experiments across PHP, TypeScript, Go, and Python.
 
 ---
 
@@ -159,6 +156,8 @@ One command sets up **Claude Code** on a Laravel project: engineering rules, a q
   with **Laravel, Redis, and MySQL** for high performance and reliability; owned end-to-end delivery,
   client requirements, RESTful APIs for mobile, secure payment-gateway integrations, WHM/cPanel
   environments, and rigorous code review. Grew the team through mentoring and best-practice advocacy.
+  **Creator of ConvertedOrders** — an AI system that turns a product link into revenue end-to-end
+  (ad copy, creatives, CRO landing page, targeting, and a conversational AI sales agent).
 - **Orcas — Back End Developer.** Built features in agile squads, designed RESTful APIs, ran CI/CD,
   optimized applications for scalability, and safeguarded data integrity across DB systems.
 - **AMIT Learning — Instructor.** Designed and delivered a full web-development curriculum, led
@@ -184,10 +183,9 @@ One command sets up **Claude Code** on a Laravel project: engineering rules, a q
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohamed-ashraf-elsaed&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=4a55d6&icon_color=4a55d6&border_radius=12" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-ashraf-elsaed&layout=compact&theme=default&hide_border=true&langs_count=8&title_color=4a55d6&border_radius=12" alt="Top languages" height="165" />
+<img src="https://streak-stats.demolab.com?user=mohamed-ashraf-elsaed&theme=default&hide_border=true&ring=4a55d6&fire=ff5842&currStreakLabel=4a55d6&border_radius=12" alt="GitHub streak" width="70%" />
 
-<img src="https://streak-stats.demolab.com?user=mohamed-ashraf-elsaed&theme=default&hide_border=true&ring=4a55d6&fire=ff5842&currStreakLabel=4a55d6&border_radius=12" alt="GitHub streak" height="165" />
+<sub>📈 My full contribution graph is right below this README.</sub>
 
 </div>
 
