@@ -97,6 +97,7 @@ as an actionable backlog.
   <a href="https://www.npmjs.com/package/@loupekit/mcp"><img src="https://img.shields.io/npm/v/@loupekit/mcp?style=flat&logo=npm&color=CB3837&label=%40loupekit%2Fmcp" alt="@loupekit/mcp" /></a>
   <a href="https://www.npmjs.com/package/@loupekit/shared"><img src="https://img.shields.io/npm/v/@loupekit/shared?style=flat&logo=npm&color=CB3837&label=%40loupekit%2Fshared" alt="@loupekit/shared" /></a>
   <a href="https://packagist.org/packages/loupekit/laravel"><img src="https://img.shields.io/packagist/v/loupekit/laravel?style=flat&logo=packagist&logoColor=white&color=F28D1A&label=loupekit%2Flaravel" alt="loupekit/laravel" /></a>
+  <a href="https://glama.ai/mcp/servers/mohamed-ashraf-elsaed/loupe"><img src="https://glama.ai/mcp/servers/mohamed-ashraf-elsaed/loupe/badges/score.svg" alt="Loupe MCP server on Glama" /></a>
 </p>
 
 ```bash
