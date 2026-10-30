@@ -9,11 +9,12 @@
 </a>
 
 <p>
+  <a href="https://mohamedashrafelsaed.com"><img src="https://img.shields.io/badge/Website-mohamedashrafelsaed.com-0f766e?style=flat&logo=googlechrome&logoColor=white" alt="Website: mohamedashrafelsaed.com" /></a>
   <a href="https://www.linkedin.com/in/mohamedashrafelsaed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/MohammedElsaed_"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://www.instagram.com/mohamedashrafelsaed_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.facebook.com/mohamedashelsaed"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="mailto:m.ashraf.saed@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:hello@mohamedashrafelsaed.com"><img src="https://img.shields.io/badge/Email-hello%40mohamedashrafelsaed.com-EA4335?style=flat&logo=maildotru&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/WhatsApp%20@mohamed.ash-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp @mohamed.ash" />
 </p>
 
@@ -42,7 +43,8 @@ at AMIT Learning**).
 - 🔭 **Now:** leading backend for AI-driven SaaS at Convertedin — **Flyerz**, **ConvertedPay**, and **ConvertedOrders** (which I created): turn any product link into revenue, fully AI-run.
 - 🌱 **Exploring:** AI agents, the **Model Context Protocol (MCP)**, and agent-native developer tooling.
 - 💬 **Ask me about:** Laravel, software architecture, scalable backends, Redis, REST APIs, MCP.
-- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/mohamedashrafelsaed/) · `m.ashraf.saed@gmail.com`
+- 🌐 **Website:** [mohamedashrafelsaed.com](https://mohamedashrafelsaed.com) — projects, packages, press kit.
+- 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/mohamedashrafelsaed/) · `hello@mohamedashrafelsaed.com`
 - 🌍 **Cairo, Egypt** · 10k+ LinkedIn followers.
 
 ---
@@ -85,6 +87,21 @@ at AMIT Learning**).
 ## 📦 Open source
 
 I build and maintain developer tools across **npm** and **Packagist**.
+
+### 🧠 Aletheia — local memory and rules for AI coding tools
+
+One SQLite file on your machine that your coding tools read and write over **MCP, REST and the command line**.
+Rules sync to `CLAUDE.md` and `AGENTS.md`. Project page: [mohamedashrafelsaed.com/projects/aletheia](https://mohamedashrafelsaed.com/projects/aletheia/).
+
+<p>
+  <a href="https://www.npmjs.com/package/aletheia-mem"><img src="https://img.shields.io/npm/v/aletheia-mem?style=flat&logo=npm&color=CB3837&label=aletheia-mem" alt="aletheia-mem on npm" /></a>
+  <a href="https://glama.ai/mcp/servers/mohamed-ashraf-elsaed/aletheia-mem"><img src="https://glama.ai/mcp/servers/mohamed-ashraf-elsaed/aletheia-mem/badges/score.svg" alt="Aletheia MCP server on Glama" /></a>
+  <a href="https://github.com/mohamed-ashraf-elsaed/aletheia-mem"><img src="https://img.shields.io/github/stars/mohamed-ashraf-elsaed/aletheia-mem?style=flat&color=4a55d6" alt="stars" /></a>
+</p>
+
+```bash
+npm install -g aletheia-mem
+```
 
 ### 🔎 Loupe — pin feedback to the live UI, hand it to Claude
 
@@ -186,6 +203,12 @@ One command sets up **Claude Code** on a Laravel project: engineering rules, a q
 
 <img src="https://streak-stats.demolab.com?user=mohamed-ashraf-elsaed&theme=default&hide_border=true&ring=4a55d6&fire=ff5842&currStreakLabel=4a55d6&border_radius=12" alt="GitHub streak" width="70%" />
 
+<p>
+  <a href="https://gitranks.com/profile/mohamed-ashraf-elsaed"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gitranks.com/badge/user/mohamed-ashraf-elsaed/rank.svg?by=contributions&theme=dark"><img alt="GitRanks contributor rank" src="https://gitranks.com/badge/user/mohamed-ashraf-elsaed/rank.svg?by=contributions&theme=light"></picture></a>
+  <a href="https://gitranks.com/profile/mohamed-ashraf-elsaed"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gitranks.com/badge/user/mohamed-ashraf-elsaed/rank.svg?scope=country&theme=dark"><img alt="GitRanks rank in Egypt" src="https://gitranks.com/badge/user/mohamed-ashraf-elsaed/rank.svg?scope=country&theme=light"></picture></a>
+  <a href="https://gitranks.com/profile/mohamed-ashraf-elsaed"><picture><source media="(prefers-color-scheme: dark)" srcset="https://gitranks.com/badge/user/mohamed-ashraf-elsaed/month.svg?theme=dark"><img alt="GitRanks this month" src="https://gitranks.com/badge/user/mohamed-ashraf-elsaed/month.svg?theme=light"></picture></a>
+</p>
+
 <sub>📈 My full contribution graph is right below this README.</sub>
 
 </div>
@@ -202,7 +225,8 @@ I'm always open to technical insights, collaboration, and good conversations.
 <a href="https://x.com/MohammedElsaed_"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://www.instagram.com/mohamedashrafelsaed_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://www.facebook.com/mohamedashelsaed"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-<a href="mailto:m.ashraf.saed@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mohamedashrafelsaed.com"><img src="https://img.shields.io/badge/Website-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="mailto:hello@mohamedashrafelsaed.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
 
 <sub>💬 WhatsApp: <b>@mohamed.ash</b></sub>
 
