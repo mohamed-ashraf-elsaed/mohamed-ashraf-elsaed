@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Mohamed%20Ashraf&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Technical%20Lead%20%40%20Convertedin%20%E2%80%94%20Backend%20Architect%20%C2%B7%20AI-Driven%20SaaS%20%C2%B7%20Open-Source%20Author&descSize=15&descAlignY=60" alt="Mohamed Ashraf" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Mohamed%20Ashraf%20Elsaed&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Technical%20Lead%20%40%20Convertedin%20%E2%80%94%20Backend%20Architect%20%C2%B7%20AI-Driven%20SaaS%20%C2%B7%20Open-Source%20Author&descSize=15&descAlignY=60" alt="Mohamed Ashraf Elsaed" width="100%" />
 
 <a href="https://github.com/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=22&duration=2600&pause=800&color=4A55D6&center=true&vCenter=true&width=720&lines=8%2B+years+building+scalable+backends.;PHP+%C2%B7+Laravel+%C2%B7+Node.js+%C2%B7+NestJS+%C2%B7+Symfony.;Designing+architecture%2C+not+just+writing+code.;Wiring+products+to+Claude+Code+via+MCP." alt="What I do" />
@@ -30,7 +30,7 @@
 
 ## 👋 About me
 
-I'm **Mohamed Ashraf** — a software engineer with **8+ years** of hands-on experience in
+I'm **Mohamed Ashraf Elsaed** — a software engineer with **8+ years** of hands-on experience in
 **project architecture, backend development, and performance optimization**. I currently serve
 as **Technical Lead at [Convertedin](https://www.converted.in/)**, where I own technical
 decisions for AI-driven SaaS products and build scalable systems that support growth.
