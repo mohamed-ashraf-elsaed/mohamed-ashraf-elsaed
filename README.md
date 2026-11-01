@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Mohamed%20Ashraf%20Elsaed&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Technical%20Lead%20%40%20Convertedin%20%E2%80%94%20Backend%20Architect%20%C2%B7%20AI-Driven%20SaaS%20%C2%B7%20Open-Source%20Author&descSize=15&descAlignY=60" alt="Mohamed Ashraf Elsaed" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Mohamed%20Ashraf%20Elsaed&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Technical%20Lead%20%40%20Converted%20%E2%80%94%20Backend%20Architect%20%C2%B7%20AI-Driven%20SaaS%20%C2%B7%20Open-Source%20Author&descSize=15&descAlignY=60" alt="Mohamed Ashraf Elsaed" width="100%" />
 
 <a href="https://github.com/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&size=22&duration=2600&pause=800&color=4A55D6&center=true&vCenter=true&width=720&lines=8%2B+years+building+scalable+backends.;PHP+%C2%B7+Laravel+%C2%B7+Node.js+%C2%B7+NestJS+%C2%B7+Symfony.;Designing+architecture%2C+not+just+writing+code.;Wiring+products+to+Claude+Code+via+MCP." alt="What I do" />
@@ -32,7 +32,7 @@
 
 I'm **Mohamed Ashraf Elsaed** — a software engineer with **8+ years** of hands-on experience in
 **project architecture, backend development, and performance optimization**. I currently serve
-as **Technical Lead at [Convertedin](https://www.converted.in/)**, where I own technical
+as **Technical Lead at [Converted](https://convertedin.com/)**, where I own technical
 decisions for AI-driven SaaS products and build scalable systems that support growth.
 
 My core is **PHP & Laravel**, extended across **Node.js, NestJS, and Symfony** (certified). I care
@@ -40,7 +40,7 @@ about clean architecture, maintainable systems, and shipping real value — and 
 **open source** and mentoring the next generation of developers (former **Web Development Instructor
 at AMIT Learning**).
 
-- 🔭 **Now:** leading backend for AI-driven SaaS at Convertedin — **Flyerz**, **ConvertedPay**, and **ConvertedOrders** (which I created): turn any product link into revenue, fully AI-run.
+- 🔭 **Now:** leading backend for AI-driven SaaS at Converted — **Flyerz**, **ConvertedPay**, and **ConvertedOrders** (which I created): turn any product link into revenue, fully AI-run.
 - 🌱 **Exploring:** AI agents, the **Model Context Protocol (MCP)**, and agent-native developer tooling.
 - 💬 **Ask me about:** Laravel, software architecture, scalable backends, Redis, REST APIs, MCP.
 - 🌐 **Website:** [mohamedashrafelsaed.com](https://mohamedashrafelsaed.com) — projects, packages, press kit.
@@ -160,8 +160,8 @@ One command sets up **Claude Code** on a Laravel project: engineering rules, a q
 
 | Role | Company | When |
 | --- | --- | --- |
-| **Technical Lead** | [Convertedin](https://www.converted.in/) | Jan 2026 – Present |
-| **Software Engineer** | Convertedin | Aug 2022 – Present |
+| **Technical Lead** | [Converted](https://convertedin.com/) | Jan 2026 – Present |
+| **Software Engineer** | Converted | Aug 2022 – Present |
 | **Back End Developer** | Orcas | Apr 2019 – Aug 2022 |
 | **Web Development Instructor** | AMIT Learning | Aug 2019 – Nov 2019 |
 | **Back End Developer** | ClueApps | Feb 2018 – May 2019 |
@@ -169,7 +169,7 @@ One command sets up **Claude Code** on a Laravel project: engineering rules, a q
 <details>
 <summary><b>Highlights</b></summary>
 
-- **Convertedin — Technical Lead / Software Engineer.** Lead and manage backend teams for two
+- **Converted — Technical Lead / Software Engineer.** Lead and manage backend teams for two
   high-impact products, **Flyerz** and **ConvertedPay**. Designed and rebuilt the Flyerz backend
   with **Laravel, Redis, and MySQL** for high performance and reliability; owned end-to-end delivery,
   client requirements, RESTful APIs for mobile, secure payment-gateway integrations, WHM/cPanel
